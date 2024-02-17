@@ -1,5 +1,5 @@
 ## App Design:
-![Uploading screencapture-localhost-3000-2024-02-17-20_20_58.jpg…]()
+![screencapture-localhost-3000-2024-02-17-20_20_58](https://github.com/azmii911/movie-theater-next-js-typescript-tmdb-ssr/assets/72024933/b160fa45-86da-4d53-87c9-e43dc30d3a47)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
